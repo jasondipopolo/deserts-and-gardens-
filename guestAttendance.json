@@ -1,0 +1,22 @@
+{
+    "guests": [
+      {
+        "firstName": "Isabelle",
+        "lastName": "Samuel",
+        "email": "isabelle@emailsamuel.com",
+        "password": "xyz123",
+        "attendance": false,
+        "mealPreference": "None",
+        "comments": ""
+      },
+      {
+        "firstName": "Isabelle",
+        "lastName": "Samuel",
+        "email": "isabelle@emailsamuel.com",
+        "password": "xyz123",
+        "attendance": false,
+        "mealPreference": "None",
+        "comments": ""
+      }
+    ]
+  }
