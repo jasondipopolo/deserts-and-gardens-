@@ -1,0 +1,21 @@
+
+
+.text-ourTerracota{
+    color: #D17C52;
+}
+
+#hero .bg-ourTerracota{
+    background-color: #D17C52;
+}
+
+#hero .bg-ourTerracota:hover{
+    background-color: #a15e3d;
+}
+
+#hero h1{
+    line-height: 3.5rem;
+}
+
+.text-ourMutedGreen{
+    color: #677E71;
+}
