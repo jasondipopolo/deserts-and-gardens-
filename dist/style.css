@@ -25,3 +25,7 @@
 .text-ourMutedGreen{
     color: #677E71;
 }
+
+.itemGiftVisitorList{
+    border-radius: 8px !important;
+}
